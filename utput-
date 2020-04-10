@@ -1,0 +1,17 @@
+--2020-04-07 16:15:15--  https://raw.githubusercontent.com/svenfuchs/rails-i18n/master/rails/locale/ja.yml
+raw.githubusercontent.com (raw.githubusercontent.com) をDNSに問いあわせています... 151.101.88.133
+raw.githubusercontent.com (raw.githubusercontent.com)|151.101.88.133|:443 に接続しています... 接続しました。
+HTTP による接続要求を送信しました、応答を待っています... 200 OK
+長さ: 5117 (5.0K) [text/plain]
+`ja.yml' に保存中
+
+     0K ....                                                  100% 12.7M=0s
+
+2020-04-07 16:15:16 (12.7 MB/s) - `ja.yml' へ保存完了 [5117/5117]
+
+--2020-04-07 16:15:16--  http://file=config/locales/ja.yml
+file=config (file=config) をDNSに問いあわせています... 失敗しました: nodename nor servname provided, or not known.
+wget: ホストアドレス `file=config' を解決できませんでした。
+終了しました --2020-04-07 16:15:16--
+経過時間: 0.7s
+ダウンロード完了: 1 ファイル、5.0K バイトを 0s で取得 (12.7 MB/s)
